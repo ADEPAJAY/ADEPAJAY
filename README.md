@@ -87,8 +87,5 @@ I'm always hungry for new challenges and learning opportunities! I'm actively lo
 
 ---
 
-### 📊 My GitHub Journey
-
-*(You can add dynamic GitHub stats badges here. Websites like `github-readme-stats.vercel.app` or `awesome-github-profile-readme-templates` can help you generate these. Remember to uncomment the lines below in your actual README.md to display them!)*
 
 ```markdown
